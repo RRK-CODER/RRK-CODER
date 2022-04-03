@@ -13,17 +13,28 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRK-CODER&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img width = "48%" src= "https://github-readme-stats.vercel.app/api?username=RRK-CODER&theme=midnight-purple">
+<img width = "48%" src = "https://github-readme-streak-stats.herokuapp.com?user=RRK-CODER&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple">
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRK-CODER&hide=contribs,prs&theme=tokyonight) -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RRK-CODER&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple)](https://git.io/streak-stats)
- <p>
+</p>
+ <p align="center">
     <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=RRK-CODER&theme=gotham">
   </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <p align = "center">
+ <img width="60px" src="./git-icon.svg"/>
+ <img width="60px" src="./git-bash.svg"/>
+ <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
+  <img width="60px" src="./c.svg"/>
+  <img width="60px" src="./cpp.svg"/>
+  <img width="60px" src="./java.svg"/>
+  <img width="60px" src="./mysql.svg"/>
+ </p>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/RRK_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalj10483982" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rohit-ranjan-kumar-06861b205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VISHAL JOSHI" height="30" width="40" /></a>
   <!-- <a href="https://fb.com/knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="knockcat" height="30" width="40" /></a> -->
