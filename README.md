@@ -13,12 +13,15 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRK-CODER&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRK-CODER&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRK-CODER&hide=contribs,prs&theme=tokyonight) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RRK-CODER&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RRK-CODER&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple)](https://git.io/streak-stats)
+ <p>
+    <br>
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=RRK-CODER&theme=gotham">
+  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RRK_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalj10483982" height="30" width="40" /></a>
