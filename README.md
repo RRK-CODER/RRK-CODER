@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Ranjan Kumar </h1>
-<h3 align="center">I am currently pursuing my B.Tech in Computer Science & Engineering..</h3
+<h3 align="center">I am currently pursuing my B.Tech in Computer Science & Engineering.</h3
 <!--
 **RRK-CODER/RRK-CODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
