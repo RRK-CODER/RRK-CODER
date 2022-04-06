@@ -18,6 +18,7 @@
 <img width = "48%" src = "https://github-readme-streak-stats.herokuapp.com?user=RRK-CODER&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple">
 
 </p>
+ <p align="center"><img width="450px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RRK-CODER&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ayushved78" /></p>
  <p align="center">
     <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=RRK-CODER&theme=gotham">
@@ -44,3 +45,5 @@
 <a href="https://leetcode.com/RRK-coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knockcat" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/@knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@knockcat" height="30" width="40" /></a> -->
 </p>
+
+
